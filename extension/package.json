@@ -3,14 +3,14 @@
 	"displayName": "GitHub Fresh Theme",
 	"description": "A theme modified from GitHub theme",
 	"version": "0.0.0",
-	"publisher": "ZimoCP",
+	"publisher": "月読時",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZimoCP/vscode-github-fresh-theme"
+		"url": "https://github.com/TsukuyomiToki/vscode-github-fresh-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/ZimoCP/vscode-github-fresh-theme/issues"
+		"url": "https://github.com/TsukuyomiToki/vscode-github-fresh-theme/issues"
 	},
 	"engines": {
 		"vscode": "^1.16.0"
@@ -29,5 +29,8 @@
 	},
 	"scripts": {
 		"publish": "vsce publish"
+	},
+	"__metadata": {
+		"installedTimestamp": 1654430006540
 	}
 }

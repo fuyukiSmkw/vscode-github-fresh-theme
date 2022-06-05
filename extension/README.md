@@ -1,17 +1,13 @@
 # README
 
-A light VSCode theme modified from GitHub theme.
-
-Also my first theme.
-
-This theme works best with KDE Breath theme (Manjaro KDE default theme).
+A light VSCode theme which uses green as its theme color. Modified from GitHub theme.
 
 # INSTALL
 
-This theme ISN'T in the VSC Plugin Store, so download /releases/theme-v.e.r.vsix file to install.
+Install from VSIX: /releases/theme-foo.bar.vsix
 
 # SCREENSHOT
 
 ![](screenshot.png)
 
---Zimo, 20190718
+20190718
